@@ -6,7 +6,7 @@
 
 I'm a high school student who just dedicated three years of my life to web development🧑‍💻, a technology that would immediately be replaced by AI🤖 once I master it.
 
-- 🔭 I've been making a few projects, one (or the only) halfway completed is icportrayal.com. It's a school forum kind of thing that aims to connect us with our peers. For privacy issues, outsiders may not see the information, but you can appreciate my design talent (almost zero but not) at icportrayal.com/login
+- 🔭 I've been making a few projects, one (or the only) halfway completed is [BHSFIC Portrayal](icportrayal.com). It's a school forum kind of thing that aims to connect us with our peers. For privacy issues, outsiders may not see the information, but you can appreciate my design talent (almost zero but not) at icportrayal.com/login
 - 🌱 I’m currently learning NextJS, typescript, Svelte. I'm also just stepping foot in Unity and C#!
 - 👯 I’m looking to collaborate on websites or just general projects that are non-profit and aim to benefit the world (yes I'm a good 🧑‍🎓)
 - 🤔 I’m looking for help with finding a faster way to design the layout and components of my website (they always stress me out and prevent me from constructing the actual functionalities). Please also share with me how to win against perfectionism :)

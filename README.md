@@ -2,6 +2,7 @@
 
 <!--
 **owliwik/owliwik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
 I'm a high school student who just dedicated three years of my life to web development🧑‍💻, a technology that would immediately be replaced by AI🤖 once I master it.
 
